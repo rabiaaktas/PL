@@ -21,6 +21,8 @@ And the variable names first letter must be lowercase character and the second l
 For the booleans their first letter must be uppercase and the rest is lowercase.
 
 => Has while,do...
+
+
 => You can run your program by running the makefile and giving it to krlang as input:
      ./krlang < example.kr
 
