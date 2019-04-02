@@ -24,6 +24,8 @@ For the booleans their first letter must be uppercase and the rest is lowercase.
 
 
 => You can run your program by running the makefile and giving it to krlang as input:
+
+
      ./krlang < example.kr
 
    
